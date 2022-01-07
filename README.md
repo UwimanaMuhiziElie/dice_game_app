@@ -1,7 +1,7 @@
-# dice_game_app
 
+<h1 align="center"> :video_game: Dice game :game_die: </h1>
 
-Andela technical test
+> Andela coding challenge.
 
 GAME RULES:
 
@@ -16,3 +16,27 @@ run
  - hold it
  - it's next player's turn.
  
+
+#### UI
+ - Navigate to html/index.html file and right click and select  `OPEN WITH LIVE SERVER`
+ - These are HTML and CSS based pages that can be run directly in your browser.
+
+
+
+# Technologies Stack :gear:
+| Frontend-UI | Backend-API    |
+| ---------   | -----------    |
+| HTML        |     -          |
+| CSS         |     -          |
+| JS          |     -          |
+
+
+# Bugs :bug:
+No known bugs.
+If you spot one, kindly email me @ umuhizielie@gmail.com
+# Author :computer:
+
+ [Elie Uwimana](https://github.com/UwimanaMuhiziElie)
+
+# Acknowledgments :bow:
+[Andela Rwanda](https://www.andela.com)
